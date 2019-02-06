@@ -1,5 +1,7 @@
 Quick Setup with CLion (For Windows 64 bit with MinGW)
+
 OPTIONAL: I recommend having these folders in an easy to find place, like a folder in documents called SDL.
+
 
 
 CMakeListsTemplate
